@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://famyard.co.ke/sitemap.xml
